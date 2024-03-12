@@ -11,6 +11,7 @@ For instructions on installing Uni-Mol, please refer to the [Uni-Mol installatio
 After installing Uni-Mol, move the files from the unimol folder (in this repository) to the corresponding folder within the installed Uni-Mol directory.
 
 ## Data
+![image](https://github.com/longlongman/LG-Mol/assets/18597120/df1a4722-2b28-4cbf-a86b-23f7c040a7cc)
 We provide the code for data preprocessing in the data folder.
 The preprocessed data is also available [here](https://drive.google.com/drive/folders/1Vvf6giqU929PaQ7y1AT-N6UwrGlrWmK5?usp=drive_link).
 
